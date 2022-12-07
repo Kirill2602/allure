@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 07 16:03:49 GMT 2022","Wed Dec 07 16:03:51 GMT 2022","2053","","allure.websteps.WebStepsTest","","allure.websteps.WebStepsTest","webStepsIssueTest","webStepsIssueTest()",""
+"passed","Wed Dec 07 16:03:47 GMT 2022","Wed Dec 07 16:03:49 GMT 2022","2233","","allure.steps.StepsTest","","allure.steps.StepsTest","lambdaStepsTest","Checking for availability issue text on page",""
+"passed","Wed Dec 07 16:03:41 GMT 2022","Wed Dec 07 16:03:47 GMT 2022","5727","","allure.selenide.IssueTests","","allure.selenide.IssueTests","issueSearchTest","issueSearchTest()",""
